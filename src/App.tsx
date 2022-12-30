@@ -21,7 +21,7 @@ export default function App() {
 							'back.jpg',
 							'front.jpg',
 						]}
-						path="./assets/environments/default"
+						path="./assets/environments/default/"
 					/>
 					<Controllers />
 					<Logo />
